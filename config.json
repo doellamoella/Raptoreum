@@ -1,0 +1,18 @@
+{
+    "autosave": true,
+    "cpu": true,
+    "opencl": false,
+    "cuda": false,
+    "pools": [
+        {
+            "coin": null,
+            "algo": "ghostrider",
+            "url": "us.flockpool.com:5555",
+            "user": "RFtgkDCsn41AwwU3ZuBEjFszNMZRw227hb",
+            "pass": "x",
+            "tls": true,
+            "keepalive": false,
+            "nicehash": false
+        }
+    ]
+}
